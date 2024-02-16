@@ -1,7 +1,7 @@
 # Hello--World
-##Title
+## Title
 **Hello--World**
-##Description
+## Description
 *This is to get more familiar with Github for class.*
-##How to
+## How to
 -You would need x file to use this code
